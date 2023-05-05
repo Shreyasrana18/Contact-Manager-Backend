@@ -1,0 +1,27 @@
+{
+  "name": "contact-manager-backend",
+  "version": "1.0.0",
+  "description": "Express project-contact backend api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyasrana18/Contact-Manager-.git"
+  },
+  "author": "Shreyas Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyasrana18/Contact-Manager-/issues"
+  },
+  "homepage": "https://github.com/Shreyasrana18/Contact-Manager-#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
