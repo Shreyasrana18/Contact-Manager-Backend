@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/Shreyasrana18/Contact-Manager-#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^7.2.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
